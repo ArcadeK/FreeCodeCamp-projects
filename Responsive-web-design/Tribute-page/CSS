@@ -27,9 +27,12 @@ h1{font-family: lobster;
 font-style: italic; 
 font-size: 200px;}
 
+#img-caption{font-family: lobster;
+font-size: 30px;
+margin: 15px;}
 
 h2{font-size: 100px;
-font-family: lobster;}
+font-family: Akronim;}
 
 p{font-family: lobster;
 font-size: 50px;
