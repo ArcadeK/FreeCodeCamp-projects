@@ -8,7 +8,7 @@ There are 6 certifications provided by the code camp cirriculum. In total,there 
 As each project is actioned, I will tick the corresbonding tick box to mark as completed. 
 
  Responsive Web Design Certification (300 hours) 
- - [ ] Build a tribute page
+ - [x] Build a tribute page (https://codepen.io/arcadek/pen/LaXbyY) 
  - [ ] Build a survey Form
  - [ ] Build a Product Landing page
  - [ ] Build a technical Documentation page
