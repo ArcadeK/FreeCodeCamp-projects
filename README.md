@@ -9,7 +9,7 @@ As each project is actioned, I will tick the corresbonding tick box to mark as c
 
  Responsive Web Design Certification (300 hours) 
  - [x] Build a tribute page (https://codepen.io/arcadek/pen/LaXbyY) 
- - [ ] Build a survey Form
+ - [x] Build a survey Form (https://codepen.io/arcadek/full/eXQRZO)
  - [ ] Build a Product Landing page
  - [ ] Build a technical Documentation page
  - [ ] Build a Personal portfolio Webpage
