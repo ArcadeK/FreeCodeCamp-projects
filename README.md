@@ -12,7 +12,8 @@ As each project is actioned, I will tick the corresbonding tick box to mark as c
  - [x] Build a survey Form (https://codepen.io/arcadek/full/eXQRZO)
  - [x] Build a Product Landing page (https://codepen.io/arcadek/pen/WmLZdE) 
  - [x] Build a Personal portfolio Webpage (https://codepen.io/arcadek/pen/GLNKxO)
- Certification: https://www.freecodecamp.org/certification/arcadekuro/responsive-web-design
+ 
+ My Web Design Certification: https://www.freecodecamp.org/certification/arcadekuro/responsive-web-design
  
  Introduction to the JavaScript Algorithims and Data Structures Certification (300 hours) 
  - [ ] Palindrome checker 
